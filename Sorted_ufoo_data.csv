@@ -1,0 +1,504 @@
+            datetime country     shape
+1   10/10/1949 20:30      us  cylinder
+2   10/10/1949 21:00    <NA>     light
+3   10/10/1955 17:00      gb    circle
+4   10/10/1956 21:00      us    circle
+5   10/10/1960 20:00      us     light
+6   10/10/1961 19:00      us    sphere
+7   10/10/1965 21:00      gb    circle
+8   10/10/1965 23:45      us      disk
+9   10/10/1966 20:00      us      disk
+10  10/10/1966 21:00      us      disk
+11  10/10/1968 13:00      us    circle
+12  10/10/1968 19:00      us  fireball
+13  10/10/1970 16:00      us      disk
+14  10/10/1970 19:00      us   unknown
+15  10/10/1971 21:00      us      oval
+16  10/10/1972 19:00      us    circle
+17  10/10/1972 22:30      us      disk
+18  10/10/1973 19:00      us      disk
+19  10/10/1973 23:00    <NA>     light
+20  10/10/1974 17:00    <NA>     light
+21  10/10/1974 19:30      us     other
+22  10/10/1974 21:30      gb      disk
+23  10/10/1974 23:00      us     light
+24  10/10/1975 17:00      us     light
+25  10/10/1976 20:30      us      oval
+26  10/10/1976 22:00      gb     cigar
+27  10/10/1977 12:00      us     other
+28  10/10/1977 22:00      us     light
+29  10/10/1978 02:00      us rectangle
+30  10/10/1979 00:00      us   chevron
+31  10/10/1979 22:00    <NA>  triangle
+32  10/10/1979 22:00      us      oval
+33  10/10/1979 22:00      us   unknown
+34  10/10/1980 19:00      us    sphere
+35  10/10/1980 22:00      us   unknown
+36  10/10/1980 23:30      us     light
+37  10/10/1982 07:00    <NA>      disk
+38  10/10/1984 05:00      us    circle
+39  10/10/1984 12:00      us     other
+40  10/10/1984 22:00      us formation
+41  10/10/1985 20:25      gb  triangle
+42  10/10/1986 20:00    <NA>   chevron
+43  10/10/1987 20:00    <NA>      disk
+44  10/10/1988 18:00      us  triangle
+45  10/10/1988 21:00      us   unknown
+46  10/10/1988 22:00      us     light
+47  10/10/1988 22:45      us   unknown
+48  10/10/1989 00:00      us      disk
+49  10/10/1989 21:00      us  triangle
+50  10/10/1989 21:00    <NA>  triangle
+51  10/10/1990 20:00    <NA>   unknown
+52  10/10/1990 21:00      us  triangle
+53  10/10/1991 22:00      us   unknown
+54  10/10/1991 22:00      us  triangle
+55  10/10/1992 17:00      us formation
+56  10/10/1992 18:00      us   unknown
+57  10/10/1992 20:15      us     cigar
+58  10/10/1992 22:00      us   unknown
+59  10/10/1993 03:00    <NA>    sphere
+60  10/10/1993 22:00      us     light
+61  10/10/1993 23:00      us     other
+62  10/10/1994 15:00    <NA>     cigar
+63  10/10/1994 18:30      us rectangle
+64  10/10/1994 22:00      us     light
+65  10/10/1994 23:00      ca    sphere
+66  10/10/1995 17:05    <NA>      <NA>
+67  10/10/1995 19:45      us      <NA>
+68  10/10/1995 22:40      us      <NA>
+69  10/10/1996 03:20      us  triangle
+70  10/10/1996 20:00    <NA>     light
+71  10/10/1996 22:00      us     light
+72  10/10/1996 22:30      us  cylinder
+73  10/10/1997 16:00      us     delta
+74  10/10/1997 17:00      us    sphere
+75  10/10/1997 20:00      us  triangle
+76  10/10/1997 21:00      us     other
+77  10/10/1998 02:00    <NA>      disk
+78  10/10/1998 02:30      us  changing
+79  10/10/1998 03:30      us  fireball
+80  10/10/1998 13:15      us  cylinder
+81  10/10/1998 17:30      us     cigar
+82  10/10/1998 17:30      us    circle
+83  10/10/1998 20:30    <NA>  triangle
+84  10/10/1998 20:30      us  triangle
+85  10/10/1998 20:50      us     light
+86  10/10/1998 22:30      ca       egg
+87  10/10/1998 23:50      us  fireball
+88  10/10/1999 00:01      us  changing
+89  10/10/1999 03:00    <NA>       egg
+90  10/10/1999 04:00      us   unknown
+91  10/10/1999 06:00      us     other
+92  10/10/1999 11:00      us  fireball
+93  10/10/1999 12:40      us    sphere
+94  10/10/1999 20:35      us    circle
+95  10/10/1999 21:00      us     light
+96  10/10/1999 21:00      us     light
+97  10/10/1999 21:30      us    sphere
+98  10/10/1999 22:00    <NA>     flash
+99  10/10/1999 22:30    <NA>  triangle
+100 10/10/1999 22:30      us   chevron
+101 10/10/1999 23:45      us      oval
+102 10/10/2000 03:00      us      oval
+103 10/10/2000 03:45    <NA>     flash
+104 10/10/2000 06:15      us     other
+105 10/10/2000 07:30      ca  cylinder
+106 10/10/2000 16:00    <NA>  triangle
+107 10/10/2000 20:20    <NA>      oval
+108 10/10/2000 20:30      us     light
+109 10/10/2000 21:30      us     light
+110 10/10/2000 21:30      us   unknown
+111 10/10/2000 22:00      us   diamond
+112 10/10/2001 03:00      us  triangle
+113 10/10/2001 04:33      au formation
+114 10/10/2001 20:10      ca     other
+115 10/10/2001 20:35      us    circle
+116 10/10/2001 21:15      us rectangle
+117 10/10/2001 21:30      us  changing
+118 10/10/2001 22:00      us  triangle
+119 10/10/2001 23:00      us  triangle
+120 10/10/2002 00:01      us     flash
+121 10/10/2002 02:00      us   unknown
+122 10/10/2002 04:00      au    circle
+123 10/10/2002 06:00      us    sphere
+124 10/10/2002 19:45      ca   unknown
+125 10/10/2002 20:30      us     other
+126 10/10/2002 21:00      us    circle
+127 10/10/2002 22:00    <NA>       egg
+128 10/10/2002 22:00      au     cross
+129 10/10/2003 09:00    <NA>     light
+130 10/10/2003 12:00      us      oval
+131 10/10/2003 18:00      us    sphere
+132 10/10/2003 19:15      us     other
+133 10/10/2003 20:05      us     light
+134 10/10/2003 20:25      us      oval
+135 10/10/2003 21:10      us formation
+136 10/10/2003 22:00      us     light
+137 10/10/2003 23:00    <NA>   unknown
+138 10/10/2003 23:25      us    sphere
+139 10/10/2004 02:50      us  triangle
+140 10/10/2004 03:30    <NA>     other
+141 10/10/2004 03:50      ca  changing
+142 10/10/2004 04:18      us    sphere
+143 10/10/2004 08:30      us      oval
+144 10/10/2004 09:45      ca   unknown
+145 10/10/2004 14:00      us    circle
+146 10/10/2004 15:00      us   unknown
+147 10/10/2004 15:00      us    sphere
+148 10/10/2004 15:20    <NA>      oval
+149 10/10/2004 19:00    <NA> formation
+150 10/10/2004 19:00      us    circle
+151 10/10/2004 21:00      us     flash
+152 10/10/2004 21:00      us     light
+153 10/10/2004 22:00      us     light
+154 10/10/2004 23:30      us    sphere
+155 10/10/2005 07:40      us     other
+156 10/10/2005 09:00      us     other
+157 10/10/2005 09:30      us      oval
+158 10/10/2005 11:30      us      <NA>
+159 10/10/2005 14:45      us       egg
+160 10/10/2005 20:00      us  triangle
+161 10/10/2005 20:00      gb formation
+162 10/10/2005 21:00      us   unknown
+163 10/10/2005 21:30      us     other
+164 10/10/2005 22:08      us     light
+165 10/10/2005 23:00      us     light
+166 10/10/2005 23:07      us      disk
+167 10/10/2005 24:00      us      disk
+168 10/10/2006 01:00      us   diamond
+169 10/10/2006 05:00      us  triangle
+170 10/10/2006 12:37      us   unknown
+171 10/10/2006 16:00      us     light
+172 10/10/2006 16:00      us  triangle
+173 10/10/2006 19:00    <NA>  fireball
+174 10/10/2006 20:00      us     other
+175 10/10/2006 21:47      gb formation
+176 10/10/2006 22:40      us     light
+177 10/10/2006 22:50      us      disk
+178 10/10/2006 23:00      us   unknown
+179 10/10/2006 23:55      us  triangle
+180 10/10/2007 01:00      us     light
+181 10/10/2007 01:00      us  changing
+182 10/10/2007 04:00      us  changing
+183 10/10/2007 04:30      us    sphere
+184 10/10/2007 05:00      us    circle
+185 10/10/2007 06:00      us      oval
+186 10/10/2007 13:00      us  triangle
+187 10/10/2007 18:33      us    circle
+188 10/10/2007 19:00      us     flash
+189 10/10/2007 20:10      us    sphere
+190 10/10/2007 20:24    <NA>  fireball
+191 10/10/2007 20:30      us   unknown
+192 10/10/2007 20:55      us   unknown
+193 10/10/2007 21:00      us      oval
+194 10/10/2007 21:43      us formation
+195 10/10/2007 22:00      us     light
+196 10/10/2007 22:00      us    circle
+197 10/10/2007 22:00      us   unknown
+198 10/10/2007 22:00      us     other
+199 10/10/2007 23:05      us  triangle
+200 10/10/2007 23:20    <NA>     light
+201 10/10/2008 02:00      ca     other
+202 10/10/2008 02:00      us     light
+203 10/10/2008 02:00      us    circle
+204 10/10/2008 04:00      us      disk
+205 10/10/2008 04:50      us formation
+206 10/10/2008 06:00      us      oval
+207 10/10/2008 09:30      us     flash
+208 10/10/2008 10:22      us  triangle
+209 10/10/2008 18:00      us  triangle
+210 10/10/2008 19:00      us     light
+211 10/10/2008 20:00      us formation
+212 10/10/2008 20:00    <NA>   unknown
+213 10/10/2008 20:00      us      oval
+214 10/10/2008 20:00      us     light
+215 10/10/2008 20:40      us     light
+216 10/10/2008 21:30      us      oval
+217 10/10/2008 22:00      us      disk
+218 10/10/2008 22:30      us    circle
+219 10/10/2008 23:15      us    sphere
+220 10/10/2009 00:00    <NA> rectangle
+221 10/10/2009 12:00      us       egg
+222 10/10/2009 12:42      us   unknown
+223 10/10/2009 16:24      us   unknown
+224 10/10/2009 19:30      us   unknown
+225 10/10/2009 20:30      us     light
+226 10/10/2009 20:45      us     light
+227 10/10/2009 21:00      us      disk
+228 10/10/2009 22:30      us     other
+229 10/10/2009 23:00      us  changing
+230 10/10/2009 23:23      us     light
+231 10/10/2010 01:00      us     light
+232 10/10/2010 02:30      us    circle
+233 10/10/2010 03:00      us    circle
+234 10/10/2010 08:30      us formation
+235 10/10/2010 10:45      us     flash
+236 10/10/2010 12:00      us     light
+237 10/10/2010 13:00      us     light
+238 10/10/2010 15:00    <NA>  triangle
+239 10/10/2010 16:30      us     cigar
+240 10/10/2010 17:10      us     light
+241 10/10/2010 18:30      us  triangle
+242 10/10/2010 20:00      us      oval
+243 10/10/2010 20:20      us  fireball
+244 10/10/2010 20:45      us  cylinder
+245 10/10/2010 21:00      us     other
+246 10/10/2010 21:00      us      disk
+247 10/10/2010 21:30      us    circle
+248 10/10/2010 22:30      us       egg
+249 10/10/2010 23:00      us  changing
+250 10/10/2010 23:30      us      disk
+                                                       city
+1                                                san marcos
+2                                              lackland afb
+3                                      chester (uk/england)
+4                                                      edna
+5                                                   kaneohe
+6                                                   bristol
+7                                        penarth (uk/wales)
+8                                                   norwalk
+9                                                 pell city
+10                                                 live oak
+11                                                hawthorne
+12                                                  brevard
+13                                                 bellmore
+14                                               manchester
+15                                                lexington
+16                                            harlan county
+17                                          west bloomfield
+18                                                  niantic
+19                                              bermuda nas
+20                                             willow beach
+21                                                   hudson
+22                                       cardiff (uk/wales)
+23                                                   hudson
+24                                         north charleston
+25                                                washougal
+26                            stoke mandeville (uk/england)
+27                                              san antonio
+28                                               louisville
+29                                                   elmont
+30                                             poughkeepsie
+31                                     saddle lake (canada)
+32                                                san diego
+33                                                 security
+34                                                  houston
+35                                                   dallas
+36                                               manchester
+37                                   gisborne (new zealand)
+38                                                  houston
+39                                            traverse city
+40                                             white plains
+41                                       leeds (uk/england)
+42                                           holmes/pawling
+43                                  manilla (rr#1) (canada)
+44                                                milwaukee
+45                                           new gloucester
+46                                                  boulder
+47                                   seattle (ballard area)
+48                                                calabasas
+49                                                centralia
+50                                                 kranklin
+51                                           pense (canada)
+52                                                  ashburn
+53                                                   frisco
+54                                               harrisburg
+55                                              panama city
+56                                                 stafford
+57                                                  seymour
+58                                              weatherford
+59                                        zlatoust (russia)
+60                                                   peoria
+61                                                 carthage
+62                                                mercedies
+63                                              burnt hills
+64                                               pinebergen
+65                  toronto (greater toronto area) (canada)
+66                                puerto rico (puerto rico)
+67                                                milwaukee
+68                                                  oakland
+69                                             higginsville
+70                       lake macquarie (nsw&#44 australia)
+71                                               charleston
+72                                            monroe county
+73                                             connersville
+74                                                     mesa
+75                                                  bonaire
+76                                                   austin
+77                                            turin (italy)
+78                                                hollywood
+79                                     phoenix (north part)
+80                                                    elgin
+81                                                las vegas
+82                                                las vegas
+83                                     nyc/westchester area
+84  spokane (about 30 miles sw of&#44i-90&#44 maybe mm 254)
+85                                              mooresville
+86                                   st. john&#39s (canada)
+87                                                   delano
+88                                                 martinez
+89                             st. agnes de dundee (canada)
+90                                              kansas city
+91                                                   dallas
+92                                                san diego
+93                                                kennewick
+94                                                  hayward
+95                                    ashland (at our home)
+96                                                   rachel
+97                                                 humphrey
+98                                      dorset (uk/england)
+99                                 casey key (north end of)
+100                                                   elgin
+101                                                lewiston
+102                                              perryville
+103             carnival cruise ship (paradise) (caribbean)
+104                                           boynton beach
+105                                       victoria (canada)
+106                                                  jueanu
+107                           valley park area of st. louis
+108                                               brinktown
+109                                                florence
+110                                          seattle (west)
+111                                            port orchard
+112                                           rockwell city
+113                              sydney (nsw&#44 australia)
+114                                      vancouver (canada)
+115                                                 hayward
+116                                                 ottumwa
+117                                                  fresno
+118                                                 phoenix
+119                                          virginia beach
+120                                                 hayward
+121                                               philomath
+122              adelaide (pt. wakefield) (south australia)
+123                                                 seattle
+124                                       victoria (canada)
+125                                              cincinnati
+126                                                portland
+127                                                 bahamas
+128                           burnie (tasmania) (australia)
+129                                             new buffulo
+130                                                alhambra
+131                                            indianapolis
+132                                             centreville
+133                                              grand view
+134                                              temperance
+135                                          crescent beach
+136                                             albuquerque
+137                  bickerton (near wetherby) (uk/england)
+138                                                 gleason
+139                                                  mahwah
+140                                  worthington st. forest
+141                             portage la prairie (canada)
+142                                             terre haute
+143                                            indianapolis
+144                                          nobel (canada)
+145                                              morgantown
+146                                                berkeley
+147                                             rock island
+148                                   kedainiai (lithuania)
+149                                              chateauqua
+150                                                  ripley
+151                                               faribault
+152                                               mansfield
+153                                                columbia
+154                                                 gleason
+155                                                 seattle
+156                                         apache junction
+157                                       north miami beach
+158                                               edgewater
+159                                             los angeles
+160                                                 loretto
+161                                      newtown (uk/wales)
+162                                               lewisburg
+163                                       north miami beach
+164                                          east wenatchee
+165                                          hendersonville
+166                                                brainerd
+167                                                franklin
+168                                              pennington
+169                                           san francisco
+170                                             blairsville
+171                                                savannah
+172                                              waynesboro
+173                                                  unsure
+174                                                    bray
+175                      plymouth (devonshire) (uk/england)
+176                                                waycross
+177                                               wolfforth
+178                                               lyndhurst
+179                                                    knik
+180                                                 lebanon
+181                                             stockbridge
+182                                                  denver
+183                                            jacksonville
+184                                             bakersfield
+185                                                   indio
+186                                                   owego
+187                                             downingtown
+188                                                  austin
+189                                 starrsville (covington)
+190                                 west palm beach florida
+191                                                 conyers
+192                                              vero beach
+193                                            jensen beach
+194                                                 houston
+195                                                  duluth
+196                                                 fleming
+197                                              grove city
+198                                             van alstyne
+199                                              northglenn
+200                                          stord (norway)
+201                                         london (canada)
+202                                            north branch
+203                                            slingerlands
+204                                                  carlin
+205                                              evansville
+206                                                  albany
+207                                     amarillo (hwy. 140)
+208                                                 fremont
+209                                                    yuma
+210                                              south bend
+211                                             la crescent
+212                                           moon township
+213                                            philadelphia
+214                                                 seattle
+215                                                  pueblo
+216                                              cincinnati
+217                                               san diego
+218                                                 madison
+219                                               coldwater
+220                                               greenland
+221                                           crested butte
+222                                                   tulsa
+223                                                   eagar
+224                                                 suffolk
+225                                                 anaheim
+226                                              wilmington
+227                                                leesburg
+228                                       thief river falls
+229                                           michigan city
+230                                               cupertino
+231                                            orchard park
+232                                              harrisburg
+233                                                  euclid
+234                                                   starr
+235                                              leominster
+236                                               greenwich
+237                                        north charleston
+238                                   san francisco airport
+239                                             springfield
+240                                              bridgeport
+241                                               clackamas
+242                                              san angelo
+243                                                 windsor
+244                                                sterling
+245                                                 everett
+246                                              kykotsmovi
+247                                                  albany
+248                                            garden grove
+249                                                   miami
+250                                                 anaheim
+ [ reached 'max' / getOption("max.print") -- omitted 88821 rows ]
+> 
